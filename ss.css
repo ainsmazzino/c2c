@@ -1,0 +1,54 @@
+
+#about{
+    background: url(./MAKEATHON/images/26154861.jpg);
+    background-size:cover;
+    object-fit: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+  }
+  #about .container{
+      display: grid;
+      grid-column: auto;
+  }
+  
+  #about{
+    height: auto;
+  }
+  
+  #abouted{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  #img-abt{
+    margin-bottom: 100px;
+  }
+  
+  #abt {
+      font-size: 70px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding-top: 60px;
+      padding-bottom: 60px;
+      color: #edf5e1;
+  }
+  
+  
+  #abt-txt{
+    color: #edf5e1;
+    margin-top: -25px;
+  }
+  
+  #content {
+      font-size: 15px;
+      padding-top: 60px;
+  }
+  
+  #btn-abt{
+      border: 0.1rem solid;
+      font-size: 20px;
+      margin: 1rem 1rem;
+  }
+  
